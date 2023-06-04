@@ -1,5 +1,5 @@
 # bot-holiday
-ของ apple ไม่ตรงกับวันหยุดของ bot 
+ของ apple ไม่ตรงกับวันหยุดของ bot https://www.bot.or.th/th/financial-institutions-holiday.html
 
   * Go to Settings > Calendar > Accounts > Add Account.  
   * Tap Other, then tap Add Subscribed Calendar.   
