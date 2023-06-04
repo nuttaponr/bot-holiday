@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Create//FORM//https://www.bot.or.th/content/bot/th/financial-institutions-holiday/jcr:content/root/container/holidaycalendar_copy.model.2566.json
+BEGIN:VEVENT
+DTSTART:20230102T000000
+DTEND:20230102T235959
+SUMMARY:วันจันทร์ 2 มกราคม 2566
+DESCRIPTION:ชดเชยวันสิ้นปีและวันขึ้นปีใหม่ (วันเสาร์ที่ 31 ธันวาคม 2565 และวันอาทิตย์ที่ 1 มกราคม 2566)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230306T000000
+DTEND:20230306T235959
+SUMMARY:วันจันทร์ 6 มีนาคม 2566
+DESCRIPTION:วันมาฆบูชา
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230406T000000
+DTEND:20230406T235959
+SUMMARY:วันพฤหัสบดี 6 เมษายน 2566
+DESCRIPTION:วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230413T000000
+DTEND:20230413T235959
+SUMMARY:วันพฤหัสบดี 13 เมษายน 2566
+DESCRIPTION:วันสงกรานต์    
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230414T000000
+DTEND:20230414T235959
+SUMMARY:วันศุกร์ 14 เมษายน 2566
+DESCRIPTION:วันสงกรานต์    
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230501T000000
+DTEND:20230501T235959
+SUMMARY:วันจันทร์ 1 พฤษภาคม 2566
+DESCRIPTION:วันแรงงานแห่งชาติ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230504T000000
+DTEND:20230504T235959
+SUMMARY:วันพฤหัสบดี 4 พฤษภาคม 2566 
+DESCRIPTION:วันฉัตรมงคล 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20230505T000000 
+DTEND:20230505T235959 
+SUMMARY:วันศุกร์ 5 พฤษภาคม 2566 
+DESCRIPTION:วันหยุดพิเศษ (เพิ่มเติม) 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20230605T000000 
+DTEND:20230605T235959 
+SUMMARY:วันจันทร์ 5 มิถุนายน 2566 
+DESCRIPTION:\u200bชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดาพัชรสุธาพิมลลักษณ์พระบรมราชินีและวันวิสาขบูชา (วันเสาร์ที่ 3 มิถุนายน 2566)   
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20230728T000000 
+DTEND:20230728T235959 
+SUMMARY:\u200bวันศุกร์ 28 กรกฎาคม 2566 
+DESCRIPTION:\u200bวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20230801T000000 
+DTEND:20230801T235959 
+SUMMARY:วันอังคาร 1 สิงหาคม 2566 
+DESCRIPTION:วันอาสาฬหบูชา 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20230814T000000 
+DTEND:20230814T235959 
+SUMMARY:วันจันทร์ 14 สิงหาคม 2566 
+DESCRIPTION:ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์พระบรมราชินีนาถพระบรมราชชนนีพันปีหลวงและวันแม่แห่งชาติ (วันเสาร์ที่ 12 สิงหาคม 2566) 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20231013T000000 
+DTEND:20231013T235959 
+SUMMARY:\u200bวันศุกร์ 13 ตุลาคม 2566 
+DESCRIPTION:\u200bวันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราชบรมนาถบพิตร 
+END:VEVENT 
+BEGIN:VEVENT 
+DTSTART:20231023T000000 
+DTEND:20231023T235959 
+SUMMARY:วันจันทร์ 23 ตุลาคม 2566 
+DESCRIPTION:วันปิยมหาราช
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231205T000000
+DTEND:20231205T235959
+SUMMARY:วันอังคาร 5 ธันวาคม 2566
+DESCRIPTION:วันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราชบรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231211T000000
+DTEND:20231211T235959
+SUMMARY:วันจันทร์ 11 ธันวาคม 2566
+DESCRIPTION:ชดเชยวันรัฐธรรมนูญ (วันอาทิตย์ที่ 10 ธันวาคม 2566)
+END:VEVENT
+END:VCALENDAR
